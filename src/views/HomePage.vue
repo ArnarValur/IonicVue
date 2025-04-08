@@ -15,6 +15,10 @@
 
       <div id="container">
         <strong>Ready to create an app?</strong>
+        <h1 class="text-red- underline">
+          Hello Vue world!
+        </h1>
+        <span>Now with Tailwind CSS</span>
         <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
       </div>
     </ion-content>
