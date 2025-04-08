@@ -8,7 +8,6 @@
 
 A clean, ready-to-use boilerplate combining the power of Ionic Framework with Vue 3, Tailwind CSS, and Pinia state management.
 
-![Ionic Vue Boilerplate](https://via.placeholder.com/800x400?text=Ionic+Vue+Boilerplate)
 
 ## 🚀 Features
 
