@@ -30,8 +30,8 @@ A clean, ready-to-use boilerplate combining the power of Ionic Framework with Vu
 
 ```bash
 # Clone the repository
-git clone https://github.com/ArnarValur/ionic-vue-boilerplate.git
-cd ionic-vue-boilerplate
+git clone https://github.com/ArnarValur/IonicVueBoilerplate.git
+cd IonicVueBoilerplate
 
 # Install dependencies
 npm install
